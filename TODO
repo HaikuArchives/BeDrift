@@ -1,0 +1,9 @@
+TODO
+====
+
+- find the reason for the intermittent segafult in memcpy_pIII
+
+- allow images to be saved by double clicking on them.
+
+- make finding/compliling of images more efficient.
+
